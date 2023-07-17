@@ -1,6 +1,6 @@
 # Beauty-Product-Recommendation-System
 
-To view the user's portfolio blog on the Beauty Product Recommendation system using collaborative filtering, please visit [My Blog](https://danielrs.systeme.io/anime-recommendation-system-using-collaborative-filtering) to see the explanation of the notebook.
+To view the user's portfolio blog on the Beauty Product Recommendation system using collaborative filtering, please visit [My Blog](https://danielrs.systeme.io/beauty-product-recommendation) to see the explanation of the notebook.
 
 # Dataset Content
 
