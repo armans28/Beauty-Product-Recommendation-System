@@ -49,6 +49,10 @@ Here's a table that explains the Meta data (Product data) columns in the dataset
 
 This table describes the columns in the dataset and provides a brief description of each column. The `category`, `tech1`, `description`, `fit`, `title`, `also_buy`, `tech2`, `brand`, `feature`, `rank`, `also_view`, `details`, `main_cat`, `similar_item`, `date`, `price`, `asin`, `imageURL`, and `imageURLHighRes` columns provide information about the products in the dataset.
 
+# Citation
+Justifying recommendations using distantly-labeled reviews and fined-grained aspects
+Jianmo Ni, Jiacheng Li, Julian McAuley [Empirical Methods in Natural Language Processing (EMNLP), 2019](http://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf)
+
 ## Dataset Source
 
 You can get the data from [Beauty Product Dataset](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/).  There are 2 datasets, namely [Meta Data Dataset](https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_v2/metaFiles2/meta_All_Beauty.json.gz) and [Review Dataset](https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_v2/categoryFiles/All_Beauty.json.gz).
